@@ -19,7 +19,7 @@ Password: password123
 ## 📹 Video Walkthrough
 
 Watch a 3-4 minute demo of the application:
-[Insert your video link here]
+[https://drive.google.com/file/d/1_zh6VRoEBshxH9G7nbb17YMD2X26wXS1/view?usp=drive_link]
 
 ---
 
