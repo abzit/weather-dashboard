@@ -8,7 +8,7 @@ export default function Navbar() {
   const router = useRouter();
   const user = useAuthStore((state) => state.user);
   const logout = useAuthStore((state) => state.logout);
-
+  const linkdefault = user ? '/dashboard' : '/';
   const handleLogout = () => {
     logout();
     router.push('/');
@@ -17,7 +17,7 @@ export default function Navbar() {
   return (
     <nav className="bg-blue-600 text-white p-4">
       <div className="max-w-6xl mx-auto flex justify-between items-center">
-        <Link href="/dashboard" className="text-2xl font-bold">
+        <Link href={linkdefault} className="text-2xl font-bold">
           🌤️ Weather Dashboard
         </Link>
         {user && (
