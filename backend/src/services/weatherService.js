@@ -1,5 +1,4 @@
 const axios = require('axios');
-const config = require('../config/env');
 
 const WEATHER_API_URL = 'https://api.open-meteo.com/v1/forecast';
 
