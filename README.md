@@ -245,22 +245,6 @@ weather-dashboard/
 
 ---
 
-## 🎯 Custom Feature: [Add Your Feature Name]
-
-### Description
-[Describe your custom feature here - what problem does it solve?]
-
-### How It Works
-[Explain the functionality step-by-step]
-
-### Technical Implementation
-[Brief explanation of how it's implemented]
-
-### User Value
-[Why did you build this? What problem does it solve?]
-
----
-
 ## 🚀 Setup Instructions
 
 ### Prerequisites
@@ -273,7 +257,7 @@ weather-dashboard/
 
 #### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/weather-dashboard.git
+git clone https://github.com/abzit/weather-dashboard.git
 cd weather-dashboard
 ```
 
@@ -627,10 +611,10 @@ This project is created for educational purposes. See LICENSE file for details.
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+**Abhijit Pervanghat**
+- GitHub: [@abzit](https://github.com/abzit)
+- Email: abhijit26sept@gmail.com
+- LinkedIn: [/abhijit-pervangha](https://www.linkedin.com/in/abhijit-pervanghat/)
 
 ---
 
@@ -647,7 +631,7 @@ This project is created for educational purposes. See LICENSE file for details.
 ## 📞 Support
 
 For issues or questions:
-1. Check the [Issues](https://github.com/yourusername/weather-dashboard/issues) section
+1. Check the [Issues](https://github.com/abzit/weather-dashboard/issues) section
 2. Review this README
 3. Check deployment logs:
    - Vercel: https://vercel.com/dashboard
