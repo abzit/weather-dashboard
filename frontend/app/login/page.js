@@ -34,10 +34,7 @@ export default function LoginPage() {
 
   return (
 
-    <div className="min-h-screen flex flex-col">
-      <Navbar/>
-    
-    <div className="flex-1 flex items-center justify-center">
+    <div className="min-h-screen flex items-center justify-center">
       <div className="bg-white p-8 rounded-lg shadow-md w-full max-w-md">
         <h2 className="text-2xl text-black font-bold mb-6 text-center">Login</h2>
 
@@ -81,6 +78,5 @@ export default function LoginPage() {
         </p>
       </div>
     </div>
-            </div>
   );
 }
